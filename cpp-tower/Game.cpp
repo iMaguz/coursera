@@ -18,8 +18,7 @@ using std::endl;
 // (Feel free to call "helper functions" to help you solve the puzzle.)
 void Game::solve() {
   // Prints out the state of the game:
-  cout << *this << endl;
-
+    cout << *this << endl;
   // @TODO -- Finish solving the game!
 }
 
